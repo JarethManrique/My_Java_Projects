@@ -1,1 +1,1 @@
-# My_Java_Projects
+# Repositorio de POO en Java
